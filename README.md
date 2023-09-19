@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hanhee0401
-- 👀 I’m interested in Baseball?
+- 👀 I’m interested in Armchair Expert in Baseball
 - 🌱 I’m currently learning Data structure
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me hanhee3997@naver.com
 
 <!---
 hanhee0401/hanhee0401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
