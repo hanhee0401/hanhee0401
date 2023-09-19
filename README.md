@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanhee0401
 - 👀 I’m interested in Armchair Expert in Baseball
-- 🌱 I’m currently learning Data structure
+- 🌱 I’m currently learning Data Structure
 - 📫 How to reach me hanhee3997@naver.com
 
 <!---
